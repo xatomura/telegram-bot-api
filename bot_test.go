@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
+	tgbotapi "github.com/xatomura/telegram-bot-api"
 )
 
 const (

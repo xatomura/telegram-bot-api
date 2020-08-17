@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/technoweenie/multipartstreamer"
+	"github.com/xatomura/multipartstreamer"
 )
 
 type HttpClient interface {
